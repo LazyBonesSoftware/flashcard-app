@@ -8,6 +8,9 @@
   max-width: 760px;
   margin: 0 auto;
 }
+#file-upload {
+  display: none;
+}
 
 /* Logo/Header */
 .home-header {
